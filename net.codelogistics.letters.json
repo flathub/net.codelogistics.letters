@@ -167,12 +167,12 @@
 				{
 					"type": "git",
 					"url": "https://codeberg.org/eyekay/letters.git",
-					"tag": "0.1.1",
+					"tag": "0.2.0",
 					"x-checker-data": {
 						"type": "git",
 						"tag-pattern": "^([\\d.]+)$"
 					},
-					"commit": "0dff7e071dab53a92ab3660846de1134322c2815"
+					"commit": "42a5e5c2e70436e817a7d53c46a2aa11b9d6e2a7"
 				}
 			]
 		}
