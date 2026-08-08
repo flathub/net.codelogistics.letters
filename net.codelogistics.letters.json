@@ -27,8 +27,8 @@
                     "only-arches": [
                         "x86_64"
                     ],
-                    "url": "https://github.com/jgm/pandoc/releases/download/3.9.0.2/pandoc-3.9.0.2-linux-amd64.tar.gz",
-                    "sha256": "a69abfababda8a56969a254b09f9553a7be89ddec00d4e0fe9fd585d71a67508",
+                    "url": "https://github.com/jgm/pandoc/releases/download/3.10.1/pandoc-3.10.1-linux-amd64.tar.gz",
+                    "sha256": "72948bf5784f560d5ad1876709daca27e0667f262da727bb33f77b58e52df2f5",
                     "x-checker-data": {
                         "type": "anitya",
                         "project-id": 2589,
