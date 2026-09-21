@@ -158,9 +158,9 @@
             "sources": [
                 {
                     "type": "git",
-                    "url": "https://codeberg.org/eyekay/letters.git",
-                    "tag": "0.2.0",
-                    "commit": "42a5e5c2e70436e817a7d53c46a2aa11b9d6e2a7",
+                    "url": "https://gitlab.gnome.org/jcardullo/letters.git",
+                    "tag": "0.3.0",
+                    "commit": "e9c75cbc13d09196b8186de737ece2e39a4ce5ca",
                     "x-checker-data": {
                         "type": "git",
                         "tag-pattern": "^([\\d.]+)$"
